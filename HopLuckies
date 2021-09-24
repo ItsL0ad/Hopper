@@ -148,9 +148,9 @@ end
                                         end
                                     end
                                 end)
-                            end)--]]
+                            end)
+                            --]]
     
-]]
 _G.Min = 3 -- min players
 _G.Max = 8  -- max players
 _G.ItemFarm = "Lucky Arrow" -- Notify Which Item for webhook 
