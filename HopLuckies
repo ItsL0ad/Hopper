@@ -1,9 +1,9 @@
--- Im starting to get tired of this shit Load#9201 Ver.1.02
+-- Im starting to get tired of this shit Load#9201 Ver.2.01 BETA 
     -- loadstring(game:HttpGet('https://raw.githubusercontent.com/ItsL0ad/YBALUCKIES/main/YBAHOP'))()
 
     
-_G.Min = 3 -- min players
-_G.Max = 8  -- max players
+_G.Min = 0 -- min players
+_G.Max = 0  -- max players
 _G.ItemFarm = "Lucky Arrow" -- Notify Which Item for webhook 
 getgenv().Key = "RoadRoller" -- the key will change every 24 hours
 getgenv().webhook = "https://discord.com/api/webhooks/879602013359460442/xki6g8fqmaIAb7eohPgs7XPKvOIFVR8az7-Gz29AJz2mE-T5UNJ8svZx7-yO49uiRTYg" -- leave both empty if you don't want webhook ( otherwise it's required for both if you want webhook )
