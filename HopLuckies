@@ -1,5 +1,6 @@
--- Im starting to get tired of this shit Load#9201
+-- Im starting to get tired of this shit Load#9201 Ver.1.02
     -- loadstring(game:HttpGet('https://raw.githubusercontent.com/ItsL0ad/YBALUCKIES/main/YBAHOP'))()
+
     
 _G.Min = 3 -- min players
 _G.Max = 8  -- max players
