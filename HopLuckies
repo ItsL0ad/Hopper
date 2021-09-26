@@ -4,8 +4,8 @@
     
 _G.Min = 0 -- min players
 _G.Max = 0  -- max players
-_G.ItemFarm = "HopperMomento" -- Notify Which Item for webhook 
-getgenv().Key = "RoadRoller" -- the key will change every 24 hours
+_G.ItemFarm = "Lucky Arrow" -- Notify Which Item for webhook 
+getgenv().Key = "HopperMomento" -- the key will change every 24 hours
 getgenv().webhook = "https://discord.com/api/webhooks/879602013359460442/xki6g8fqmaIAb7eohPgs7XPKvOIFVR8az7-Gz29AJz2mE-T5UNJ8svZx7-yO49uiRTYg" -- leave both empty if you don't want webhook ( otherwise it's required for both if you want webhook )
 getgenv().DiscordID = "303744696063361025"
 
